@@ -6,7 +6,7 @@ Dieses Repository enthaelt Versuche zur Implementierung des klassischen Raeuber-
 verschiedenen Programmiersprachen. Das Ziel ist es, die mathematischen Differentialgleichungen zu loesen 
 und die Populationsschwankungen von Beutetieren (z.B. Hasen) und Raeubern (z.B. Woelfe) ueber die Zeit zu visualisieren.
 
-Das Projekt dient dem Vergleich der jeweiligen Staerken, Bibliotheken und Herangehensweisen 
+Das Projekt dient dem Vergleich der jeweiligen Stärken, Bibliotheken und Herangehensweisen 
 verschiedener Sprachen im Bereich der wissenschaftlichen Berechnung und Datenvisualisierung.
 
 ## Das Modell
