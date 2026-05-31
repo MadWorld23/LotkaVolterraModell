@@ -161,7 +161,7 @@ public partial class MainWindow : Window
             var pts = new List<Point>();
             for (int i = 0; i <= currentFrame && i < hares.Count; i++)
                 pts.Add(new Point(margin + (hares[i] / maxH) * plotW, height - margin - (wolves[i] / maxW) * plotH));
-            AddPolyline(canvas, pts, Colors.Green, 2);
+            AddPolyline(canvas, pts, Colors.DarkMagenta, 2);
         }
 
         if (currentFrame < hares.Count)
