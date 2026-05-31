@@ -17,5 +17,6 @@ Das Lotka-Volterra-Modell beschreibt die Dynamik biologischer Systeme, in denen 
 2. Eine Räuberpopulation, die von der Verfügbarkeit der Beute abhängt.
 
 Die Gleichungen lauten:
-dH/dt = alpha * H - beta * H * W 
-dW/dt = delta * beta * H * W - gamma * W
+
+dH/dt = α * H - β * H * W  
+dW/dt = δ * β * H * W - γ * W
