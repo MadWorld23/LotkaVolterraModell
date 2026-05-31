@@ -1,6 +1,6 @@
 # Lotka-Volterra Modell
 
-## Projektuebersicht
+## Projektübersicht
 
 Dieses Repository enthaelt Versuche zur Implementierung des klassischen Raeuber-Beute-Modells nach Lotka-Volterra in 
 verschiedenen Programmiersprachen. Das Ziel ist es, die mathematischen Differentialgleichungen zu loesen 
